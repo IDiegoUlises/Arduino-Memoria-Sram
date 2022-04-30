@@ -25,4 +25,4 @@ void loop()
 
 <img src="https://github.com/IDiegoUlises/Arduino-Memoria-Sram/blob/main/Images/Son-Diferentes.jpg" width="1000" height="600" />
 
-* **El compilador indica el tamaño de las variables globales el codigo muestra cuanta memoria hay libre en el momento de la ejecución**
+* **El compilador indica el tamaño de las variables globales, el codigo muestra cuanta memoria hay libre en el momento de la ejecución**
