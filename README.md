@@ -18,3 +18,5 @@ void loop()
 {
 }
 ```
+
+<img src="https://github.com/IDiegoUlises/Arduino-Memoria-Sram/blob/main/Images/Son-Diferentes.jpg" width="1000" height="600" />
