@@ -3,7 +3,7 @@ La memoria Sram (memoria estatica de acceso aleatorio) es el espacio donde el sk
 alimentacion, estas memorias son de acceso aleatorio, lo que significa que las posiciones en la memoria pueden ser escritas o leidas en cualquier orden
 
 
-# Codigo que muestra la memoria Sram
+# Codigo que muestra la memoria Sram disponible
 ```c++
 int freeRam()
 {
