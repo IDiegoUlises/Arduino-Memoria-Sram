@@ -1,4 +1,6 @@
 # Arduino Memoria Sram
+La memoria Sram (memoria estatica de acceso aleatorio) es el espacio donde el sketch del programa almacenan y manipulan variables al ejecutarse. La información guardada en esta memoria será eliminada cuando Arduino pierda la
+alimentación, estas memorias son de acceso aleatorio, lo que significa que las posiciones en la memoria pueden ser escritas o leídas en cualquier orden
 
 ```c++
 int freeRam()
